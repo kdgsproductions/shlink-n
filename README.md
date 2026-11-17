@@ -10,7 +10,7 @@
 [![Bluesky](https://img.shields.io/badge/follow-shlinkio-0285FF.svg?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/shlink.io)
 [![Paypal donate](https://img.shields.io/badge/Donate-paypal-blue.svg?style=flat-square&logo=paypal&colorA=aaaaaa)](https://slnk.to/donate)
 
-A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own domain.
+A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own company domain.
 
 ## Table of Contents
 
