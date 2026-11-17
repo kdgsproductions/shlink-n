@@ -5,7 +5,7 @@
 1. Product name: **Mikkle** (M-I-K-K-L-E).
 2. Tagline: **Long Story Short**; the seal uses uppercase **LONG STORY SHORT**.
 3. The owner's uploaded logo image supersedes the earlier SVG package and generated preview. It shows a green/gold circular seal, widely spaced arc lettering, two side dots, a larger black QR pattern, and a gold browser shape with a diagonal right edge. Do not substitute the rejected rendering or infer replacement artwork.
-4. The exact uploaded image is pending receipt as a downloadable file for repository inclusion. No production logo is included in this typography commit.
+4. The owner-uploaded logo is available unchanged at `public/assets/brand/mikkle-logo.png` ([GitHub asset](https://github.com/kdgsproductions/shlink-n/blob/develop/public/assets/brand/mikkle-logo.png)). This PNG is the approved logo asset; the rejected SVG/preview is excluded.
 5. Product QR generation remains governed by the roadmap; the brand mark is not a replacement for generated product QR codes.
 
 ## Typography
