@@ -6,7 +6,7 @@ See the [build scope and delivery rules](build-scope.md) for requirements. Secti
 
 ## Branding assets
 
-The approved default typeface is self-hosted Montserrat in weights 400, 600, and 700. The local stylesheet is `/assets/css/base.css`. The approved uploaded logo is pending receipt as a downloadable file; no production logo is delivered yet. See [brand standards](brand-standards.md) for asset usage and licensing. These assets do not mark an application build phase complete.
+The approved default typeface is self-hosted Montserrat in weights 400, 600, and 700. The local stylesheet is `/assets/css/base.css`. The approved owner-uploaded logo is available at `/assets/brand/mikkle-logo.png` and is preserved unchanged. See [brand standards](brand-standards.md) for asset usage and licensing. These assets do not mark an application build phase complete.
 
 ## Installation and first setup
 
