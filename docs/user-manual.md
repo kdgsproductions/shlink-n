@@ -1,8 +1,12 @@
-# Shlink-n user manual
+# Mikkle user manual
 
 > Draft outline — the new build has not been verified as implemented. This file is not yet an operating guide for its planned features.
 
 See the [build scope and delivery rules](build-scope.md) for requirements. Sections will receive verified instructions at each completed phase; the complete manual will be checked against the finished application before final delivery.
+
+## Branding assets
+
+The approved default typeface is self-hosted Montserrat in weights 400, 600, and 700. The local stylesheet is `/assets/css/base.css`. The approved uploaded logo is pending receipt as a downloadable file; no production logo is delivered yet. See [brand standards](brand-standards.md) for asset usage and licensing. These assets do not mark an application build phase complete.
 
 ## Installation and first setup
 

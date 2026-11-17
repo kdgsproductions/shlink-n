@@ -12,7 +12,7 @@
 
 A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own company domain.
 
-## Shlink-n planned build
+## Mikkle planned build
 
 This fork is being developed into a company-managed QR and URL shortener. The following are planned changes, not completed-feature claims. The owner's updated roadmap is pending reconciliation before implementation.
 
@@ -25,6 +25,8 @@ This fork is being developed into a company-managed QR and URL shortener. The fo
 - Permission-scoped analytics, bot filtering, local PDF/print reports, CSV export, and IP anonymization.
 - SMTP notifications, encrypted secrets, optional TOTP, audit history, and security verification.
 - The application's own scoped QR/branding integration API after the security gate; no third-party QR rendering APIs.
+
+Mikkle’s tagline is **Long Story Short**. Its default font is self-hosted Montserrat (400/600/700); see [brand standards](docs/brand-standards.md).
 
 See [build scope and delivery rules](docs/build-scope.md) for all phases, deferred features, cleanup requirements, and test/commit gates. The [user manual](docs/user-manual.md) starts as a draft, is updated after each tested phase, and is finalized against the completed application.
 

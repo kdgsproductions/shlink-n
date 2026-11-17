@@ -1,0 +1,31 @@
+{
+  "family": "Montserrat",
+  "source_repository": "https://github.com/googlefonts/Montserrat",
+  "conversion": "Source static TTF converted locally to WOFF2 with fontTools; no subsetting.",
+  "fonts": [
+    {
+      "weight": 400,
+      "source": "https://github.com/googlefonts/Montserrat/blob/master/fonts/ttf/Montserrat-Regular.ttf",
+      "source_git_blob": "3159f743b04d2b6d1b499356180ec05df470217d",
+      "file": "montserrat-400.woff2",
+      "sha256": "d41d31bdf5ae452189d3f4649aab75972e395979ece415919aee74f860614ae9",
+      "glyphs": 1961
+    },
+    {
+      "weight": 600,
+      "source": "https://github.com/googlefonts/Montserrat/blob/master/fonts/ttf/Montserrat-SemiBold.ttf",
+      "source_git_blob": "6a48bfe5e32ed037889f19733fbf169088af3fdb",
+      "file": "montserrat-600.woff2",
+      "sha256": "348cfcba81ef55861448fa647e2579026e347370df4a07ea870a495eb6e91763",
+      "glyphs": 1961
+    },
+    {
+      "weight": 700,
+      "source": "https://github.com/googlefonts/Montserrat/blob/master/fonts/ttf/Montserrat-Bold.ttf",
+      "source_git_blob": "47e921e887f1b5a8b183984e5f5325e9e9d92905",
+      "file": "montserrat-700.woff2",
+      "sha256": "7cad649db6f95f199f12afe949dfaa498baa75eb4ac2ad8d00bcb8b4ac488df5",
+      "glyphs": 1961
+    }
+  ]
+}

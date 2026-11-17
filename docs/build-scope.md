@@ -1,4 +1,4 @@
-# Shlink-n — QR Code Shortener: Full Roadmap (Consolidated)
+# Mikkle — QR Code Shortener: Full Roadmap (Consolidated)
 
 Base repository: `kdgsproductions/shlink-n`
 Application stack: PHP/Mezzio, Doctrine ORM, MySQL.
@@ -558,3 +558,7 @@ The Build Workflow section applies to every phase throughout this order.
 
 22. User-manual lifecycle restored per owner: Build Workflow item 4 and phase completion criteria now explicitly require updates to both the roadmap and the user manual after each phase, plus verification of the complete manual against the finished application and delivery at build completion.
 23. Undersized-output rejection restored per owner (Phase 2.5): after bounds are applied, return HTTP 422 when the encoded matrix and required quiet zone cannot fit at the minimum supported module size; prohibit zero-scale rendering, quiet-zone reduction to force a fit, and silently enlarged output.
+24. Brand identity approved by owner (2026-11-17): product name Mikkle (M-I-K-K-L-E), tagline "Long Story Short", and the green/gold circular seal. The later uploaded reference image controls the logo artwork; see amendment 27. Retain upstream Shlink attribution and repository identity; see docs/brand-standards.md.
+25. Typography approved by owner (2026-11-17): self-host Montserrat weights 400, 600, and 700 under public/assets/fonts/ with OFL.txt; declare each face once and use Montserrat, system-ui, sans-serif as the app default. Any later approved editable logo text must use Montserrat only; preserve the uploaded reference image unchanged. This resolves the brand package's font-TBD note.
+26. Font conversion approved by owner (2026-11-17): download Montserrat static TTF files from the Google Fonts GitHub source repository and convert to WOFF2 locally because the inspected source directories do not supply WOFF2. No CDN/font API requests at runtime.
+27. Logo reference correction by owner (2026-11-17): the uploaded image supersedes the earlier brand-package SVG and generated preview, which the owner rejected. Preserve the uploaded design, including its diagonal browser edge and larger QR pattern. Exclude the rejected assets. Obtain the original image file for an exact repository copy; do not substitute a reconstruction.
