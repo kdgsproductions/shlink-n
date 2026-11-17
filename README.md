@@ -12,6 +12,24 @@
 
 A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own company domain.
 
+## Shlink-n planned build
+
+This fork is being developed into a company-managed QR and URL shortener. The following are planned changes, not completed-feature claims. The owner's updated roadmap is pending reconciliation before implementation.
+
+- One shared short domain with aliases unique across all companies.
+- Company/user ownership, multiple roles, company-wide or own-record access, password login, and administrator-created accounts; no public signup.
+- Local QR generation for short URLs and standalone text/vCard/WiFi content, with PNG, SVG, EPS, and PDF exports.
+- Automatic company branding with hardened logo uploads; stable printed link QRs when destinations change.
+- Link expiry/visit caps, company-scoped organization, bulk creation, metadata, imports, recoverable trash, and permission-aware exact-match duplicate surfacing.
+- Signed expiring QR download links with revocation, logging, and rate limits.
+- Permission-scoped analytics, bot filtering, local PDF/print reports, CSV export, and IP anonymization.
+- SMTP notifications, encrypted secrets, optional TOTP, audit history, and security verification.
+- The application's own scoped QR/branding integration API after the security gate; no third-party QR rendering APIs.
+
+See [build scope and delivery rules](docs/build-scope.md) for all phases, deferred features, cleanup requirements, and test/commit gates. The [user manual](docs/user-manual.md) starts as a draft, is updated after each tested phase, and is finalized against the completed application.
+
+The sections below retain upstream Shlink guidance. Upstream badges, images, releases, and documentation do not establish completion or test status for this fork's planned build.
+
 ## Table of Contents
 
 - [Full documentation](#full-documentation)
